@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center"> Olá eu sou Affonso Davi </h1>
+<div align="center">
+  
+  🌱 Atualmente estou aprendendo Back-End
+  
+  💬 Pergunte-me sobre Java, JavaScript, CSS, HTML, Python
+  
+  <a href="https://www.linkedin.com/in/affonso-davi-615b80180/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<div align="center">
+  <a href="https://github.com/AffonsoDavi">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AffonsoDavi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffonsoDavi&layout=compact&langs_count=3&theme=chartreuse-dark"/>
+</div>
 
-<!--
-**AffonsoDavi/AffonsoDavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
