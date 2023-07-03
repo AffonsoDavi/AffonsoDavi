@@ -1,7 +1,7 @@
 <h1 align="center"> Olá eu sou Affonso Davi </h1>
 <div align="center">
   
-  🌱 Atualmente estou aprendendo Banco de Dados.
+  
   
   💬 Pergunte-me sobre Java, JavaScript, CSS, HTML, Python
   
